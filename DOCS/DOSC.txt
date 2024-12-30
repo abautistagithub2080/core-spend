@@ -1,0 +1,12 @@
+https://www.iditect.com/program-example/c--how-to-use-httpclient-to-send-content-in-body-of-get-request.html
+https://stackoverflow.com/questions/38089026/if-then-else-in-where-clause-in-ms-access-sql-query
+
+https://es.stackoverflow.com/questions/171031/como-puedo-hacer-un-constructor-en-mi-controlador
+
+
+--> Para la confurar las rutas 
+
+  https://es.stackoverflow.com/questions/420844/asp-net-web-api-configurar-rutas-especificas
+  https://stackoverflow.com/questions/12775590/routing-with-multiple-get-methods-in-asp-net-web-api
+
+--> Para la confurar las rutas 
